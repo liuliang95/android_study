@@ -1,4 +1,6 @@
+chapter2 ===> activity
 chapter3 ===> ui
 chapter5 ===> broadcast
 chapter6 ===> file storage && SharedPreference  && SQLite
-chapter7 ===> Content Provider
+chapter7 ===> content provider
+chapter10 ===> service
